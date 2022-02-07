@@ -1,0 +1,2 @@
+evaluation1: ea1.c ea1.h
+	gcc -o evaluation1 ea1.c ea1.h ~/Desktop/c/ea1/ea1.h
